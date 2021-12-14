@@ -45,7 +45,5 @@ while a <= 20:
 """
 怎么打空行呢？
 """
-print("真滴有一点难T^T")
-for letter in 'Lovedada':
-    print(letter)
+
 print("20211215")
